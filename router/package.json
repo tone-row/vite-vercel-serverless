@@ -1,0 +1,21 @@
+{
+  "name": "router",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "types": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "@trpc/server": "^10.45.0",
+    "zod": "^3.22.4",
+    "zod-to-json-schema": "^3.22.3"
+  }
+}
