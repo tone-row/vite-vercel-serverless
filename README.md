@@ -1,0 +1,4 @@
+- Add node types to API (and put in tsconfig)
+- Add baseline tsconfig's to API and Router
+- Rename router to server. Rename index.ts in router to server.ts
+- Add tailwind
